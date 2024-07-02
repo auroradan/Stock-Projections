@@ -76,6 +76,9 @@ Performs linear regression on the given years and returns data.
 - `sklearn`
 - `matplotlib`
 
+
+![image](https://github.com/auroradan/Stock-Projections/assets/103843222/2c8a85be-137b-4d5a-8f67-8656d0e95283)
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
